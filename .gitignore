@@ -1,3 +1,4 @@
 /.project
 /*.zip
-/*.log
+/.bak
+/nbproject/*
